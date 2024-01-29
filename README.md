@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Jaisika 
-- 👀 I’m interested in Designing 
-- 🌱 I’m currently learning Python and Machine Learning 
-- 💞️ I’m looking for help with Datastructures and Algorithms in C++
+- 🌱 I’m currently exploring Machine Learning and Data Science field
+- 💞️ I’m good with Datastructures and Algorithms in C++
+- ✨ I also do Graphic Designing
 - 📫 How to reach me jbhatia_be21@thapar.edu
+
 
 <!---
 jaisika22/jaisika22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
